@@ -5,6 +5,7 @@ import React from 'react'
 // import "./card.css"
 import "./cart.css"
 
+
 export default function Cart({ cart }) {
   return (
     <>
